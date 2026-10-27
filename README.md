@@ -1,6 +1,6 @@
 <div align="center">
 
-# ▓▒░ HIMALAYA.EXE ░▒▓
+# ▓▒░ THE-GREAT-HIMALAYA.EXE ░▒▓
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FCEE0A&center=true&vCenter=true&width=640&lines=%3E+NEURAL+LINK+ESTABLISHED...;%3E+LOADING+MULTILINGUAL+CORTEX...;%3E+WELCOME+TO+THE+GRID%2C+CHOOMBA)](https://git.io/typing-svg)
 
