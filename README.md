@@ -1,6 +1,6 @@
 <div align="center">
 
-# ▓▒░ SUPRAVAT.EXE ░▒▓
+# ▓▒░ HIMALAYA.EXE ░▒▓
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FCEE0A&center=true&vCenter=true&width=640&lines=%3E+NEURAL+LINK+ESTABLISHED...;%3E+LOADING+MULTILINGUAL+CORTEX...;%3E+WELCOME+TO+THE+GRID%2C+CHOOMBA)](https://git.io/typing-svg)
 
@@ -31,7 +31,7 @@ $ cat /sys/mission.log
 {
   "handle": "supravatenterpise-svg",
   "firmware": {
-    "academics": "BA in French // Spanish certificate (in progress)",
+    "academics": "Research in French // Spanish (in progress)",
     "endurance_module": "Long-distance runner // 10K + half-marathon protocols",
     "theory_core": ["Vector Calculus", "Infinite Series", "History of Mathematics"],
     "os_philosophy": "Digital Minimalism // signal > noise"
